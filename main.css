@@ -1,0 +1,10 @@
+span{
+    background-color: yellow;
+}
+li{
+    font-size: 20px;
+}
+li a i{
+    font-size: 20px;
+    color: black;
+}
